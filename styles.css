@@ -148,6 +148,7 @@ nav,
 /* 
 
 THEME COLOR
+PREV: #F06449
 
 */
 
@@ -206,6 +207,7 @@ LANDING PAGE
     width: 100%;
     max-width: 1000px;
     padding: 0 30px;
+    z-index: 1;
 }
 
 .header__para {
